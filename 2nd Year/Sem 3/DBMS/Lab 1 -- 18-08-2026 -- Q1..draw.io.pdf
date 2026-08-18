@@ -1,0 +1,96 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique >>
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 4095 >>
+stream
+BT /F2 17 Tf 0.12 0.16 0.22 rg 1 0 0 1 30 566 Tm (Q1. Entity-Relationship \(ER\) Model - Library Reservation System) Tj ET
+BT /F1 9.5 Tf 0.28 0.35 0.43 rg 1 0 0 1 30 546 Tm (Entities list their key attributes. Diamonds identify relationships; labels show cardinality.) Tj ET
+[] 0 d 1 w 0.2 0.25 0.32 RG 150 333 m 202 440 l S
+[] 0 d 1 w 0.2 0.25 0.32 RG 258 440 m 285 450 l S
+[] 0 d 1 w 0.2 0.25 0.32 RG 150 333 m 202 320 l S
+[] 0 d 1 w 0.2 0.25 0.32 RG 258 320 m 285 320 l S
+[] 0 d 1 w 0.2 0.25 0.32 RG 405 175 m 450 190 l S
+[] 0 d 1 w 0.2 0.25 0.32 RG 510 190 m 600 245 l S
+[] 0 d 1 w 0.2 0.25 0.32 RG 405 320 m 450 310 l S
+[] 0 d 1 w 0.2 0.25 0.32 RG 510 310 m 600 265 l S
+BT /F2 10 Tf 0.2 0.25 0.32 rg 1 0 0 1 165 390 Tm (1) Tj ET
+BT /F2 10 Tf 0.2 0.25 0.32 rg 1 0 0 1 270 437 Tm (N) Tj ET
+BT /F2 10 Tf 0.2 0.25 0.32 rg 1 0 0 1 165 325 Tm (1) Tj ET
+BT /F2 10 Tf 0.2 0.25 0.32 rg 1 0 0 1 270 317 Tm (N) Tj ET
+BT /F2 10 Tf 0.2 0.25 0.32 rg 1 0 0 1 420 180 Tm (1) Tj ET
+BT /F2 10 Tf 0.2 0.25 0.32 rg 1 0 0 1 535 198 Tm (N) Tj ET
+BT /F2 10 Tf 0.2 0.25 0.32 rg 1 0 0 1 420 310 Tm (1) Tj ET
+BT /F2 10 Tf 0.2 0.25 0.32 rg 1 0 0 1 535 285 Tm (N) Tj ET
+1.2 w 0.86 0.9 0.95 rg 0.31 0.51 0.74 RG 30 290 120 85 re B
+BT /F2 11 Tf 0.12 0.16 0.22 rg 1 0 0 1 66.2 356 Tm (LIBRARY) Tj ET
+BT /F1 8.8 Tf 0.12 0.16 0.22 rg 1 0 0 1 50.25 337 Tm (Library_ID \(PK\)) Tj ET
+BT /F1 8.8 Tf 0.12 0.16 0.22 rg 1 0 0 1 79.4 323 Tm (Name) Tj ET
+BT /F1 8.8 Tf 0.12 0.16 0.22 rg 1 0 0 1 71.45 309 Tm (Address) Tj ET
+1.2 w 1 1 1 rg .36 .61 .84 RG 230 465 m 258 440 l 230 415 l 202 440 l h B
+BT /F2 8.5 Tf 0.12 0.16 0.22 rg 1 0 0 1 208.3 436 Tm (EMPLOYS) Tj ET
+1.2 w 1 1 1 rg .36 .61 .84 RG 230 345 m 258 320 l 230 295 l 202 320 l h B
+BT /F2 8.5 Tf 0.12 0.16 0.22 rg 1 0 0 1 214.5 316 Tm (HOLDS) Tj ET
+1.2 w 0.89 0.94 0.85 rg 0.44 0.68 0.28 RG 285 410 120 85 re B
+BT /F2 11 Tf 0.12 0.16 0.22 rg 1 0 0 1 328 476 Tm (STAFF) Tj ET
+BT /F1 8.8 Tf 0.12 0.16 0.22 rg 1 0 0 1 310.55 457 Tm (Staff_ID \(PK\)) Tj ET
+BT /F1 8.8 Tf 0.12 0.16 0.22 rg 1 0 0 1 334.4 443 Tm (Name) Tj ET
+BT /F1 8.8 Tf 0.12 0.16 0.22 rg 1 0 0 1 334.4 429 Tm (Role) Tj ET
+1.2 w 0.9 0.87 0.94 rg 0.5 0.39 0.63 RG 285 278 120 85 re B
+BT /F2 11 Tf 0.12 0.16 0.22 rg 1 0 0 1 331.4 344 Tm (BOOK) Tj ET
+BT /F1 8.8 Tf 0.12 0.16 0.22 rg 1 0 0 1 313.2 325 Tm (Book_ID \(PK\)) Tj ET
+BT /F1 8.8 Tf 0.12 0.16 0.22 rg 1 0 0 1 331.75 311 Tm (Title) Tj ET
+BT /F1 8.8 Tf 0.12 0.16 0.22 rg 1 0 0 1 329.1 297 Tm (Status) Tj ET
+1.2 w 1 0.95 0.8 rg 0.75 0.56 0 RG 285 135 120 85 re B
+BT /F2 11 Tf 0.12 0.16 0.22 rg 1 0 0 1 324.6 201 Tm (MEMBER) Tj ET
+BT /F1 8.8 Tf 0.12 0.16 0.22 rg 1 0 0 1 307.9 182 Tm (Member_ID \(PK\)) Tj ET
+BT /F1 8.8 Tf 0.12 0.16 0.22 rg 1 0 0 1 334.4 168 Tm (Name) Tj ET
+BT /F1 8.8 Tf 0.12 0.16 0.22 rg 1 0 0 1 326.45 154 Tm (Contact) Tj ET
+1.2 w 1 1 1 rg .36 .61 .84 RG 480 215 m 510 190 l 480 165 l 450 190 l h B
+BT /F2 8.5 Tf 0.12 0.16 0.22 rg 1 0 0 1 464.5 186 Tm (MAKES) Tj ET
+1.2 w 1 1 1 rg .36 .61 .84 RG 480 335 m 510 310 l 480 285 l 450 310 l h B
+BT /F2 8.5 Tf 0.12 0.16 0.22 rg 1 0 0 1 461.4 306 Tm (IS FOR) Tj ET
+1.2 w 0.99 0.89 0.84 rg 0.77 0.35 0.07 RG 600 208 145 95 re B
+BT /F2 11 Tf 0.12 0.16 0.22 rg 1 0 0 1 635.1 284 Tm (RESERVATION) Tj ET
+BT /F1 8.8 Tf 0.12 0.16 0.22 rg 1 0 0 1 622.15 265 Tm (Reservation_ID \(PK\)) Tj ET
+BT /F1 8.8 Tf 0.12 0.16 0.22 rg 1 0 0 1 643.35 251 Tm (Reserved_On) Tj ET
+BT /F1 8.8 Tf 0.12 0.16 0.22 rg 1 0 0 1 656.6 237 Tm (Status) Tj ET
+1 w 0.92 0.96 0.98 rg 0.31 0.51 0.74 RG 30 33 715 82 re B
+BT /F2 10.5 Tf 0.12 0.16 0.22 rg 1 0 0 1 43 95 Tm (Mapping to Q3 relational tables) Tj ET
+BT /F1 7.5 Tf 0.12 0.16 0.22 rg 1 0 0 1 43 76 Tm (LIBRARY\(Library_ID PK, Name, Address\)  STAFF\(Staff_ID PK, Library_ID FK, Name, Role\)  BOOK\(Book_ID PK, Library_ID FK, Title, Status\)) Tj ET
+BT /F1 7.5 Tf 0.12 0.16 0.22 rg 1 0 0 1 43 60 Tm (MEMBER\(Member_ID PK, Name, Contact\)  RESERVATION\(Reservation_ID PK, Member_ID FK, Book_ID FK, Reserved_On, Status\)) Tj ET
+BT /F3 7.5 Tf 0.12 0.16 0.22 rg 1 0 0 1 43 43 Tm (The two 1:N relationships to RESERVATION produce the logical M:N relationship: MEMBER <-> BOOK.) Tj ET
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000000266 00000 n 
+0000000344 00000 n 
+0000000490 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+4637
+%%EOF
